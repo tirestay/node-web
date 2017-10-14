@@ -1,0 +1,22 @@
+{
+  "name": "node-web.tirestay",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "cookie-parser": "*",
+    "debug": "*",
+    "consolidate": "*",
+    "express4-handlebars": "*",
+    "ejs": "*",
+    "express-ejs-layouts": "*",
+    "express": "*",
+    "morgan": "*",
+    "serve-favicon": "*",
+    "multiparty": "*",
+    "utility": "*"
+  }
+}

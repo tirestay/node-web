@@ -1,0 +1,11 @@
+.DS_Store
+*.swp
+
+.idea/
+
+
+upload/
+
+node_modules/
+
+npm-debug.log
